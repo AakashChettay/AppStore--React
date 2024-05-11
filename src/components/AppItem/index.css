@@ -1,0 +1,18 @@
+.project-item-container {
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.project-item-image {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.appNameStyle {
+  font-family: 'Bree Serif', serif;
+  color: #1e293b;
+  margin-top: 10px;
+}
